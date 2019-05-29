@@ -1,0 +1,7 @@
+Strictfp-> used to restrict the floating point calculation when a given variable is run on different plateforms
+	i.e. 16/32/64 bit processors.
+
+	->can not be used with abstract method.
+	-> can be used with abstract class and Interface.
+Memory->When a object is created using 'New', a memory is created in 'Heap' and referenced is returned.
+Two Dimentional  Array->
