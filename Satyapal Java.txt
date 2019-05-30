@@ -5,3 +5,19 @@ Strictfp-> used to restrict the floating point calculation when a given variable
 	-> can be used with abstract class and Interface.
 Memory->When a object is created using 'New', a memory is created in 'Heap' and referenced is returned.
 Two Dimentional  Array->
+
+
+
+
+Aliases-> the references that holds the address of the same object.
+Static VAriable -> a static variable is initialised when a class is loaded at runtime.
+->accessing the static variable using references is a BAD habit.
+-> two mechanism for Inheritance:
+1-> Inheritance and,
+2->Aggression: when a instance variable is itself a reference of some another class.
+-> Object s in java can not contain other objects instead they can contain the reference to the other object. 
+->Literal:constant value.
+->Octal:(Zero)045
+->Hexadecimal:(Zero)0x457.
+-> A character Literal is represented using 16-bit Unicode Character set.
+-> a Unicode character can always be specified as a set of four digit hexadecimal characters prefixed by '\u'.
