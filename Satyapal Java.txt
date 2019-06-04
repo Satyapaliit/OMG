@@ -21,3 +21,16 @@ Static VAriable -> a static variable is initialised when a class is loaded at ru
 ->Hexadecimal:(Zero)0x457.
 -> A character Literal is represented using 16-bit Unicode Character set.
 -> a Unicode character can always be specified as a set of four digit hexadecimal characters prefixed by '\u'.
+
+
+*******************04/06/2019*****************
+-> Unlike C the Java do not passes the name of the program as the argument to the main() method.
+-> Importing the Class with same name from different Package would not compile.
+->Members of the named package can not access the classes and the interfaces defined in the default paqckage.
+->static import:used to importthe static members of the class. import static <member>, import and static can not be reversed.
+
+->LOcal Variables and method parameters can not be defined with access modifiers otherwise it will throw compilation error.
+-> Java has Four Access modifiers not Three.
+protected: same package and all derieved classes of same or different package.
+
+
